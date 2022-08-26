@@ -1,0 +1,50 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar{
+	background-color: white;
+	color: black;
+	font-size: 19px;
+	font-family: merriweather;
+	text-decoration: none;
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
+.logo{
+	float: right;
+}
+.body{
+	background-color: black;
+}
+.container{
+	position: sticky;
+	z-index: 1;
+}
+h1{
+	margin-left: 400px;
+	display: flex;
+	font-size: 30px;
+}
+body{
+	background: black;
+}
+.form-control{
+	margin-top: 10px;
+	height: 60px;
+	font-size: 20px;
+	width: 600px;
+	background: transparent;
+	color: white;
+	border-radius: 10px;
+	margin-left: 300px;
+}
+.form-control-submit{
+	font-weight: bold;
+	font-size: 20px;
+	background-color: whitesmoke;
+	font-family: sans-serif;
+	display: flex;
+	margin-left: 500px;
+}

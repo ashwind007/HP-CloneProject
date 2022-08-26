@@ -1,0 +1,51 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+h1{
+
+	color: black;
+	font-size: 50px;
+	font-family: sans-serif;
+	color: black;
+	display: flex;
+	margin-left: 450px;
+}
+
+p{
+	color: white;
+}
+.about-section{
+	font-size: 20px;
+}
+.imghp{
+	align-items: center;
+	margin-left: 540px;
+}
+.dphp{
+	margin-left: 590px;
+}
+.hpf{
+	margin-left: 595px;
+}
+.logo{
+	background-color: white;
+}
+.navbar{
+	background-color: white;
+	color: black;
+	font-size: 19px;
+	font-family: merriweather;
+	text-decoration: none;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	margin-left: 40;
+}
+.des{
+	font-style: italic;
+	font-weight: 50px;
+}
+body{
+	background-color: black;
+}
